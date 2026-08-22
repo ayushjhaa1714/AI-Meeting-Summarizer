@@ -67,7 +67,7 @@ AI-Meeting-Summarizer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ayushjhaa174/AI-Meeting-Summarizer.git
+git clone https://github.com/ayushjhaa1714/AI-Meeting-Summarizer.git
 ```
 
 ### 2. Navigate to the project directory
@@ -246,7 +246,7 @@ Previously analyzed meetings are stored and can be accessed from the sidebar.
 
 **Ayush KUMAR**
 
-GitHub: [@ayushjhaa174](https://github.com/ayushjhaa174)
+GitHub: [@ayushjhaa1714](https://github.com/ayushjhaa1714)
 
 ---
 
