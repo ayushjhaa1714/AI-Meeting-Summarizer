@@ -241,6 +241,11 @@ Previously analyzed meetings are stored and can be accessed from the sidebar.
 - Improved speaker name identification
 
 ---
+## 🎥 Demo Video
+
+A demonstration video of the AI Meeting Summarizer project is available in this repository.
+
+[Watch the Demo Video](./Demo.mp4)
 
 ## 👨‍💻 Author
 
